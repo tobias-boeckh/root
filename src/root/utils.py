@@ -7,9 +7,25 @@ from typing import Literal
 import matplotlib.axes as axes
 import matplotlib.pyplot as plt
 
-NameType = Literal["Agrim", "Munira", "Tobi", "Alina", "Tobias Bl.", "Wissal", "Maxi"]
+NameType = Literal[
+    "Agrim",
+    "Munira",
+    "Tobi",
+    "Alina",
+    "Tobias Bl.",
+    "Wissal",
+    "Maxi",
+    "Georgios",
+]
 FactionType = Literal[
-    "Cats", "Birds", "Vagabond", "Woodland", "Crows", "Duchy", "Riverfolk", "Lizards"
+    "Cats",
+    "Birds",
+    "Vagabond",
+    "Woodland",
+    "Crows",
+    "Duchy",
+    "Riverfolk",
+    "Lizards",
 ]
 
 
