@@ -6,7 +6,7 @@ authors = [
     {name = "Tobias Boeckh",email = "boeckh.tobias@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.9,<3.10"
 dependencies = [
     "numpy (>=2.0)",
     "matplotlib (>=3.9)",
