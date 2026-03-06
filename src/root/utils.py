@@ -17,6 +17,9 @@ NameType = Literal[
     "Maxi",
     "Georgios",
     "Ned",
+    "Jonas",
+    "Tim",
+    "Dominik",
 ]
 FactionType = Literal[
     "Cats",
@@ -24,9 +27,11 @@ FactionType = Literal[
     "Vagabond",
     "Woodland",
     "Crows",
-    "Duchy",
+    "Moles",
     "Riverfolk",
     "Lizards",
+    "Rats",
+    "Keepers",
 ]
 
 
